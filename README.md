@@ -39,22 +39,22 @@ I'm currently studying **Web Development** and working on exciting projects usin
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; padding: 20px; background: linear-gradient(90deg, #6a1b9a, #00bcd4); border-radius: 20px; box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; padding: 30px; background: linear-gradient(90deg, #2c3e50, #2980b9); border-radius: 25px; box-shadow: 0 12px 50px rgba(0, 0, 0, 0.7);">
 
-  <div style="text-align: center; background: #f39c12; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
-    <div style="border-radius: 15px; overflow: hidden;">
+  <div style="text-align: center; background: #34495e; border-radius: 20px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
+    <h4 style="color: #ffffff; margin-bottom: 15px; font-family: 'Arial', sans-serif; font-weight: bold;">📈 GitHub Stats</h4>
+    <div style="border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="width: 100%; height: auto; border-radius: 15px;"/>
     </div>
-    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">GitHub Stats</h4>
-    <div style="font-size: 30px; color: rgba(255, 255, 255, 0.7);">🐱‍💻</div> <!-- Icône GitHub -->
+    <div style="font-size: 40px; color: rgba(255, 255, 255, 0.9);">💻</div> <!-- Icône de programmeur -->
   </div>
 
-  <div style="text-align: center; background: #27ae60; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
-    <div style="border-radius: 15px; overflow: hidden;">
+  <div style="text-align: center; background: #16a085; border-radius: 20px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
+    <h4 style="color: #ffffff; margin-bottom: 15px; font-family: 'Arial', sans-serif; font-weight: bold;">🔥 Current Streak</h4>
+    <div style="border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; height: auto; border-radius: 15px;"/>
     </div>
-    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">Current Streak</h4>
-    <div style="font-size: 30px; color: rgba(255, 255, 255, 0.7);">🔥</div>
+    <div style="font-size: 40px; color: rgba(255, 255, 255, 0.9);">🚀</div> <!-- Icône de fusée -->
   </div>
 
 </div>
