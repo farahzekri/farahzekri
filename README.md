@@ -40,16 +40,18 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; padding: 20px; background-color: #2c3e50; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-  <div style="text-align: center; background-color: #34495e; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
-    <h4 style="color: #ecf0f1; margin-top: 10px;">GitHub Stats</h4>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; padding: 20px; background-color: #34495e; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);">
+  
+  <div style="text-align: center; background-color: #1abc9c; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
+    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
+    
   </div>
   
-  <div style="text-align: center; background-color: #34495e; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
-    <h4 style="color: #ecf0f1; margin-top: 10px;">Current Streak</h4>
+  <div style="text-align: center; background-color: #e67e22; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=react&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
+   
   </div>
+
 </div>
 ---
 
