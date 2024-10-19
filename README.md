@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farah! 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=I'm+a+Web+Developer+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&lines=I'm+a+Web+Developer+Student+%F0%9F%91%8C)
 
 I'm currently studying **Web Development** and working on exciting projects using the **MERN stack** and more. Constantly learning and exploring new technologies like **Laravel, Django, Angular**, and **Spring Boot**, I'm driven to turn ideas into impactful digital solutions! 🚀
 
@@ -53,17 +53,18 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://github.com/farahzekri/blob/output/github-contribution-grid-snake.svg)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/farahzekri/farahzekri/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="600px" />
+</div>
 
 ---
 
 ## 📈 Profile Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=farahzekri&color=brightgreen)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=farahzekri.visitor-badge)
-
----
-
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=farahzekri&color=brightgreen" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=farahzekri.visitor-badge" alt="Visitor Count" />
+</div>
 ## ✨ Let's Connect
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zekri-farah-432891208/)
