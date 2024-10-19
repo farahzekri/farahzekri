@@ -42,10 +42,11 @@ I'm currently studying **Web Development** and working on exciting projects usin
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; padding: 30px; background: linear-gradient(90deg, #2c3e50, #2980b9); border-radius: 25px; box-shadow: 0 12px 50px rgba(0, 0, 0, 0.7);">
 
   <div style="text-align: center; background: #34495e; border-radius: 20px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
-   
+    <h4 style="color: #ffffff; margin-bottom: 15px; font-family: 'Arial', sans-serif; font-weight: bold;">📈 GitHub Stats</h4>
     <div style="border-radius: 15px; overflow: hidden; margin-bottom: 15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="width: 100%; height: auto; border-radius: 15px;"/>
     </div>
+    <div style="font-size: 40px; color: rgba(255, 255, 255, 0.9);">💻</div> <!-- Icône de programmeur -->
   </div>
 
   <div style="text-align: center; background: #16a085; border-radius: 20px; padding: 25px; width: 350px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
@@ -62,7 +63,7 @@ I'm currently studying **Web Development** and working on exciting projects usin
 ## 🏆 Achievements
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px; background: linear-gradient(135deg, #2980b9, #2c3e50); border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=600" alt="Achievements" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); width: 80%; max-width: 600px;"/>
 </div>
 
 ---
