@@ -47,7 +47,7 @@ I'm currently studying **Web Development** and working on exciting projects usin
     <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">GitHub Stats</h4>
     <div style="position: absolute; top: 10px; right: 10px; font-size: 30px; color: rgba(255, 255, 255, 0.3);">📊</div>
   </div>
-  
+
   <div style="text-align: center; background: linear-gradient(135deg, #2ecc71, #27ae60); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
     <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">Current Streak</h4>
