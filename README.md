@@ -40,23 +40,22 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #282c34; border-radius: 10px; padding: 20px;">
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px; border: 2px solid #61dafb;"/>
-    <p style="color: #ffffff;">GitHub Stats</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 30px; padding: 20px; background-color: #2c3e50; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+  <div style="text-align: center; background-color: #34495e; border-radius: 15px; padding: 10px; width: 300px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);">
+    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
+    <h4 style="color: #ecf0f1;">GitHub Stats</h4>
   </div>
-  <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; border: 2px solid #61dafb;"/>
-    <p style="color: #ffffff;">Current Streak</p>
+  <div style="text-align: center; background-color: #34495e; border-radius: 15px; padding: 10px; width: 300px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
+    <h4 style="color: #ecf0f1;">Current Streak</h4>
   </div>
 </div>
-
 ---
 
 ## 🏆 Achievements
 
-<div style="display: flex; justify-content: center; background-color: #282c34; border-radius: 10px; padding: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=algolia&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+<div style="display: flex; justify-content: center; padding: 20px; background-color: #2c3e50; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 15px;"/>
 </div>
 
 ---
