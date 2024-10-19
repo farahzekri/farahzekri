@@ -1,32 +1,60 @@
 # 👋 Hi, I'm Farah! 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!+I%27m+a+Web+Dev+Student)
+<div style="overflow:hidden; white-space:nowrap;">
+  <span style="display:inline-block; animation: scroll 10s linear infinite;">I'm a Web Developer Student</span>
+</div>
+
+<style>
+@keyframes scroll {
+  from { transform: translateX(100%); }
+  to { transform: translateX(-100%); }
+}
+</style>
 
 I'm currently studying **Web Development** and working on exciting projects using the **MERN stack** and more. Constantly learning and exploring new technologies like **Laravel, Django, Angular**, and **Spring Boot**, I'm driven to turn ideas into impactful digital solutions! 🚀
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Skills
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+### 👨‍💻 Programming Languages
+- JavaScript
+- Java
+- C / C#
+- Python
 
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+### 🚀 Libraries & Frameworks
+- React
+- Angular
+- Spring Boot
+- Node.js / Express
+- .NET
 
-**DevOps & Tools:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 🗄️ Databases
+- MongoDB
+- MySQL
+
+### 🛠️ DevOps & Microservices
+- Docker
+- Jenkins
+- Vagrant
+- Sonar
+- Nexus
+- Prometheus
+- Grafana
+
+### 🧰 Development Tools
+- Git / GitHub
+- IntelliJ IDEA
+- VS Code
+
+### 📋 Project Management Tools
+- Jira
+- Trello
+
+### 🎨 Creative Tools
+- Adobe Photoshop
+- Figma
 
 ---
 
@@ -57,8 +85,10 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📈 Profile Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=farahzekri&color=brightgreen)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=farahzekri.visitor-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farahzekri&color=brightgreen" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=farahzekri.visitor-badge" alt="Visitor Count" />
+</p>
 
 ---
 
