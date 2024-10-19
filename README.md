@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farah! 
+# 👋 Hi, I'm Farah!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF7F&center=true&vCenter=true&width=450&lines=I'm+a+Web+Developer+Student+%F0%9F%91%8C)
 
@@ -40,8 +40,7 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&width=400)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=vue-dark&hide_border=true&width=400)
+![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&width=400) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=vue-dark&hide_border=true&width=400)
 
 ---
 
@@ -51,21 +50,8 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ---
 
-## 🐍 Contribution Snake
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/farahzekri/farahzekri/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="600px" />
-</div>
-
----
-
-## 📈 Profile Insights
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=farahzekri&color=brightgreen" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=farahzekri.visitor-badge" alt="Visitor Count" />
-</div>
 ## ✨ Let's Connect
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zekri-farah-432891208/)
-- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farah.zekri@esprit.tn)
+Feel free to connect with me on LinkedIn! I’d love to network and share ideas. Click the button below to visit my profile. 
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20with%20Farah-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zekri-farah-432891208/)
