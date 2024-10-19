@@ -68,8 +68,8 @@ I'm currently studying **Web Development** and diving into exciting projects usi
 ### 📫 Let's Connect!
 I’d love to hear from you! Feel free to reach out on:
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; font-size: 1.5em;">
-    <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/zekri-farah-432891208" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-        <span style="color: black;">Connect with Farah</span>
+       
     </a>
 </div>
