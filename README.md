@@ -40,17 +40,17 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; padding: 20px; background: linear-gradient(90deg, #2c3e50, #4ca1af); border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; padding: 20px; background: linear-gradient(90deg, #8e44ad, #3498db); border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);">
 
-  <div style="text-align: center; background: linear-gradient(135deg, #1abc9c, #16a085); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
-    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
-    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif;">GitHub Stats</h4>
+  <div style="text-align: center; background: linear-gradient(135deg, #f39c12, #e74c3c); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
+    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
+    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">GitHub Stats</h4>
     <div style="position: absolute; top: 10px; right: 10px; font-size: 30px; color: rgba(255, 255, 255, 0.3);">📊</div>
   </div>
   
-  <div style="text-align: center; background: linear-gradient(135deg, #e67e22, #d35400); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=react&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
-    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif;">Current Streak</h4>
+  <div style="text-align: center; background: linear-gradient(135deg, #2ecc71, #27ae60); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
+    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">Current Streak</h4>
     <div style="position: absolute; top: 10px; right: 10px; font-size: 30px; color: rgba(255, 255, 255, 0.3);">🔥</div>
   </div>
 
@@ -59,8 +59,8 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 🏆 Achievements
 
-<div style="display: flex; justify-content: center; padding: 20px; background-color: #2c3e50; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 15px;"/>
+<div style="display: flex; justify-content: center; padding: 20px; background: linear-gradient(135deg, #2980b9, #2c3e50); border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);"/>
 </div>
 
 ---
