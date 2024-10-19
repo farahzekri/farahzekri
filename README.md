@@ -41,12 +41,11 @@ I'm currently studying **Web Development** and working on exciting projects usin
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; padding: 10px; background: linear-gradient(90deg, #2c3e50, #2980b9); border-radius: 25px; box-shadow: 0 10px 10px rgba(0, 0, 0, 0.7);">
 
-  <div style="text-align: center; background: #34495e; border-radius: 20px; padding: 10px; width: 50px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
-    <h4 style="color: #ffffff; margin-bottom: 10px; font-family: 'Arial', sans-serif; font-weight: bold;">📈 GitHub Stats</h4>
-    <div style="border-radius: 15px; overflow: hidden; margin-bottom: 10px;">
+  <div style="text-align: center; background: #34495e; border-radius: 20px; padding: 5px; width: 200px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); position: relative;">
+    <h4 style="color: #ffffff; margin-bottom: 5px; font-family: 'Arial', sans-serif; font-weight: bold; font-size: 14px;">📈 GitHub Stats</h4>
+    <div style="border-radius: 15px; overflow: hidden; margin-bottom: 5px;">
       <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="width: 100%; height: auto; border-radius: 15px;"/>
     </div>
-   
   </div>
 
 </div>
