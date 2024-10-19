@@ -63,7 +63,7 @@ I'm currently studying **Web Development** and working on exciting projects usin
 ## 🏆 Achievements
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px; background: linear-gradient(135deg, #2980b9, #2c3e50); border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=350" alt="Achievements" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); width: 100%; max-width: 350px; display: block; margin: 0 auto;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=monokai&no-frame=true&column=4&width=300" alt="Achievements" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); width: 250px; height: auto; display: block; margin: 0 auto;"/>
 </div>
 
 ---
