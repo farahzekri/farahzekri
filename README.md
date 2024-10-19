@@ -40,16 +40,18 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; padding: 20px; background-color: #34495e; border-radius: 15px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);">
-  
-  <div style="text-align: center; background-color: #1abc9c; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; padding: 20px; background: linear-gradient(90deg, #2c3e50, #4ca1af); border-radius: 20px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);">
+
+  <div style="text-align: center; background: linear-gradient(135deg, #1abc9c, #16a085); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=react&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px;"/>
-    
+    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif;">GitHub Stats</h4>
+    <div style="position: absolute; top: 10px; right: 10px; font-size: 30px; color: rgba(255, 255, 255, 0.3);">📊</div>
   </div>
   
-  <div style="text-align: center; background-color: #e67e22; border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); transition: transform 0.3s;">
+  <div style="text-align: center; background: linear-gradient(135deg, #e67e22, #d35400); border-radius: 15px; padding: 20px; width: 320px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); position: relative; overflow: hidden;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=react&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;"/>
-   
+    <h4 style="color: #ffffff; margin-top: 10px; font-family: 'Arial', sans-serif;">Current Streak</h4>
+    <div style="position: absolute; top: 10px; right: 10px; font-size: 30px; color: rgba(255, 255, 255, 0.3);">🔥</div>
   </div>
 
 </div>
