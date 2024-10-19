@@ -40,13 +40,24 @@ I'm currently studying **Web Development** and working on exciting projects usin
 
 ## 📊 GitHub Stats
 
-![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&width=400) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=vue-dark&hide_border=true&width=400)
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; background-color: #282c34; border-radius: 10px; padding: 20px;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=farahzekri&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" alt="Farah's GitHub Stats" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+    <p style="color: #ffffff;">GitHub Stats</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahzekri&theme=vue-dark&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+    <p style="color: #ffffff;">Current Streak</p>
+  </div>
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=farahzekri&theme=algolia&no-frame=true&column=4&width=500)
+<div style="display: flex; justify-content: center; background-color: #282c34; border-radius: 10px; padding: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=farahzekri&theme=algolia&no-frame=true&column=4&width=800" alt="Achievements" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+</div>
 
 ---
 
